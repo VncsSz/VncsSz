@@ -2,10 +2,10 @@
 
 <div>
 <a href="https://github.com/vncssz">
-  <img height=42% align="center" src="https://github-readme-stats.vercel.app/api?username=vncssz&show_icons=true&&rank_icon=github&theme=dark" />
+  <img height=190 align="center" src="https://github-readme-stats.vercel.app/api?username=vncssz&show_icons=true&&rank_icon=github&theme=dark" />
 </a>
 <a href="https://github.com/vncssz">
-  <img height=50% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vncssz&layout=donut&theme=dark" />
+  <img height=190 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vncssz&layout=donut&theme=dark" />
 </a
 </div>
 <div style="display: inline_block"><br>
