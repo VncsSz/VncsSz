@@ -2,7 +2,7 @@
 
 <div>
 <a href="https://github.com/vncssz">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=vncssz&include_all_commits=true&show_icons=true&&rank_icon=github&theme=dark" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=vncssz&show_icons=true&&rank_icon=github&theme=dark" />
 </a>
 <a href="https://github.com/vncssz">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vncssz&layout=donut&theme=dark" />
