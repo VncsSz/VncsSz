@@ -23,7 +23,7 @@
 <div>
 <a href="https://www.linkedin.com/in/vncssz/"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" /></a>
 <a href="https://www.instagram.com/vncssz/"> <img src="https://img.shields.io/badge/Instagram-d90e5e.svg?style=for-the-badge&logo=Instagram&logoColor=white" target="_blank"/></a>
-<a href="mailto:vini_souzza@hotmail.com"> <img src="https://img.shields.io/badge/Gmail-201d1d?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/></a>
+<a href="mailto:dev.vncssz@gmail.com"> <img src="https://img.shields.io/badge/Gmail-201d1d?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/></a>
 </div>
 
 <!--
